@@ -1,0 +1,2 @@
+qiskit-nature>=0.6
+setuptools>=40.1.0
